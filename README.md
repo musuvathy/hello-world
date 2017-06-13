@@ -1,2 +1,2 @@
 # hello-world
-Creating an initial hello-world repository
+Modifing an initial hello-world repository in a branch
